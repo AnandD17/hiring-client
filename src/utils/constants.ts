@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:2000/api/v1/";
+export const BASE_URL = "https://hiring-server.onrender.com/api/v1/";
